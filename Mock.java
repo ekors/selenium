@@ -1,6 +1,6 @@
 package selenium;
 
-/**
+ /**
  * Created by Ievgen.Korsun on 4/14/2016.
  */
 
@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 import static org.testng.Assert.fail;
 
 
-public class HomeWork {
+public class Mock {
     private WebDriver driver;
     private String baseUrl;
     private boolean acceptNextAlert = true;
@@ -141,4 +141,5 @@ public class HomeWork {
         }
     }
 }
+
 
